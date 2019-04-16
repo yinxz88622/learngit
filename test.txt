@@ -1,1 +1,1 @@
-modify hello git
+setcond modify hello git
