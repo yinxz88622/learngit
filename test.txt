@@ -1,2 +1,3 @@
 git is a distributed version control system.
 setcond modify hello git
+git tracks changes
